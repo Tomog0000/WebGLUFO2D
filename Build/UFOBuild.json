@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UFO2DProject",
+"dataUrl": "UFOBuild.data.unityweb",
+"asmCodeUrl": "UFOBuild.asm.code.unityweb",
+"asmMemoryUrl": "UFOBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "UFOBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
